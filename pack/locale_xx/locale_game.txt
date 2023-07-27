@@ -1,0 +1,10 @@
+//01. Change:
+TOOLTIP_BUYPRICE	Preis: %s
+
+//01. To:
+TOOLTIP_BUYPRICE	Kaufpreis: %s
+
+//02. Add after:
+TOOLTIP_SALESPRICE	Verkaufspreis: %s
+TOOLTIP_BUY_DEMAND	Nachfrage: %.2f%%(Kauf)
+TOOLTIP_SALES_DEMAND	Nachfrage: %.2f%%(Verkauf)

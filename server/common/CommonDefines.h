@@ -1,0 +1,2 @@
+//Add:
+#define ENABLE_ECONOMY_FEATURES
